@@ -1,2 +1,2 @@
 # food-selection-game
- a Simple Android Game
+ a simple Android Game
